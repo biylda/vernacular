@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vernacular.Test", "Vernacul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vernacular.Catalog.XamarinForms", "Vernacular.Catalog\Vernacular.Catalog.XamarinForms.csproj", "{2C65182D-7C42-4711-BB01-636FEED92B39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vernacular.Catalog.Android", "Vernacular.Catalog.Android\Vernacular.Catalog.Android.csproj", "{BCF7EBC7-6A3C-4388-8A19-63C8FF589D70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{8326683D-C60D-42AD-A295-00321AE332A6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8326683D-C60D-42AD-A295-00321AE332A6}.Test|Any CPU.ActiveCfg = Test|Any CPU
 		{8326683D-C60D-42AD-A295-00321AE332A6}.Test|Any CPU.Build.0 = Test|Any CPU
+		{BCF7EBC7-6A3C-4388-8A19-63C8FF589D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7EBC7-6A3C-4388-8A19-63C8FF589D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF7EBC7-6A3C-4388-8A19-63C8FF589D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF7EBC7-6A3C-4388-8A19-63C8FF589D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF7EBC7-6A3C-4388-8A19-63C8FF589D70}.Test|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7EBC7-6A3C-4388-8A19-63C8FF589D70}.Test|Any CPU.Build.0 = Debug|Any CPU
 		{BEC7B55D-F922-446D-9BBF-12DB249C4CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BEC7B55D-F922-446D-9BBF-12DB249C4CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC7B55D-F922-446D-9BBF-12DB249C4CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
